@@ -2,4 +2,3 @@
 Learned how to use GitHub and how to use Cursor AI 
 By using GitBash to push into my GitHub
 Learned How to utilise Git command (git add , git commit , git push)
-.
