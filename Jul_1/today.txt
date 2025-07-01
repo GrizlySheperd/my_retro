@@ -2,4 +2,5 @@
 Revised Yesterday Lesson and Make a new repo called my_retro and push it into my GitHub
 Downloaded Elixir,Erlang and PostgreSQL
 Learned how to edit Enviroment Variables to setup Elixir and Erlang
-To use Pheonix Framework
+To use Pheonix Framework and find a compatible Nodejs(Version 20.19.3 ) to go with Pheonix
+Learned how to fully Utilise ChatGPT to lessen our burden to find information.
