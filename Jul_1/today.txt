@@ -5,3 +5,40 @@ Learned how to edit Enviroment Variables to setup Elixir and Erlang
 To use Pheonix Framework and find a compatible Nodejs(Version 20.19.3 ) to go with Pheonix
 Learned how to fully Utilise ChatGPT to lessen our burden to find information.
 Using ChatGPT AI Assistant (Elixer Pheonix Expert) to assist us in using Pheonix
+🧱 Environment Setup
+✅ Installed Elixir and Phoenix v1.7.21
+
+✅ Installed Node.js (for asset building)
+
+✅ Confirmed your PostgreSQL setup or located your DB username
+
+🛠️ Phoenix App Creation
+✅ Ran mix phx.new my_app to generate a new Phoenix app named my_app
+
+✅ Chose to use Ecto (with PostgreSQL) as your database layer
+
+✅ Installed Elixir and JavaScript dependencies (mix deps.get and npm install)
+
+✅ Resolved PowerShell script execution issues by switching to Command Prompt or using Set-ExecutionPolicy
+
+🗃️ Database Setup
+✅ Updated dev.exs config with your PostgreSQL username and password
+
+✅ Successfully created the database with:
+
+sh
+Copy code
+mix ecto.create
+🔁 Live Reload & Asset Handling
+✅ Resolved symlink issues by running the terminal as Administrator or enabling Developer Mode
+
+✅ Saw the code reloader and JS/CSS watcher ([watch] build finished, watching for changes...) working
+
+🚀 App Running
+✅ Launched your Phoenix server with:
+
+sh
+Copy code
+elixir -S mix phx.server
+✅ Confirmed server running at http://localhost:4000
+
