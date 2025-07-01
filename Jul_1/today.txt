@@ -42,3 +42,7 @@ Copy code
 elixir -S mix phx.server
 ✅ Confirmed server running at http://localhost:4000
 
+Tukar Dev. 
+Username kasi Biar default
+Passwork kasi ubah
+
