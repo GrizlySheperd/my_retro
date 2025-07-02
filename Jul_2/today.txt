@@ -1,1 +1,7 @@
+I learned how to fully utilise ChatGPT by being very spesific with my question and instruction
+And not to paste what i see, but doing so i can read and know what it will do to my work and choose do i want it or not
+Today we continued our study starting with mix.gen.live (mix phx.gen.live is a Phoenix framework mix task that generates all the necessary code for a resource, including LiveViews, templates, and a context module)
+By doing so, I learned how to go to localhost:4000/users or ,/dev/dashboard ect. 
+My personal project today was finding a way how to add to the users page, with twist and turn i have done it with adding more content such as Name,District,Email,Age,ect.
+I also learned how to change the GUI of the homepage,the default phoenix page was kind of buggin me, so i opted to delete it and make myself a custom home page
 
