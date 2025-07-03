@@ -1,1 +1,6 @@
 Today i have learned many thing in out presentation, such like more in-depth mix.gen.phx.live gitu, 
+home.html.heex is a template file that defines the layout and content of your website's homepage.
+
+It uses the .heex format (HTML Embedded Elixir), allowing a mix of HTML and Elixir code for dynamic and real-time content.
+telah customise my homepage for my website and change everything only on the homepage.
+mix pohx.gen.live telah beljar dalam secara in-depth
