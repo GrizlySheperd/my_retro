@@ -4,3 +4,4 @@ home.html.heex is a template file that defines the layout and content of your we
 It uses the .heex format (HTML Embedded Elixir), allowing a mix of HTML and Elixir code for dynamic and real-time content.
 telah customise my homepage for my website and change everything only on the homepage.
 mix pohx.gen.live telah beljar dalam secara in-depth
+THE PROCESS OF CRUD
