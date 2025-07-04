@@ -1,0 +1,3 @@
+Learned how to design, How to Use FIGMA , a web design software.
+Learned how to import and export and change html file into heex file
+Learned what is MVP Minimal Viable Product
