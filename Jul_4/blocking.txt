@@ -1,0 +1,3 @@
+Encounter many error in importing FIGMA HTML and CSS File into Cursor that uses Exlixir. 
+I need to change the HTML file into HEEX file.
+So that is my blocking for today
