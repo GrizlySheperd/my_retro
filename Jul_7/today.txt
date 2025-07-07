@@ -9,3 +9,6 @@ Update - This operation modifies existing data in the database.
 Delete - This operation removes data from the database.
 
 ChangeSet is = Validation
+
+learned more in depth and how the process work in creating new order/user
+how does handle_event work
