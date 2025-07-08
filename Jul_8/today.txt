@@ -13,3 +13,4 @@ validation occur within changeset guideline that you have Set
     -ect..
 
 Pattern Matching in Elixir
+Used AI to help me generate my retro file till september
