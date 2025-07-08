@@ -1,1 +1,15 @@
+Learned more About CRUD
+For Create
+leaarned about how does it interact between Frontend and backend
+What is a function
+Handle_event (validation)
+    -handle realtime validation
+Parameters
+    -Data yang user type dia akan hold
+params akan pick up validation Handle_event
+validation occur within changeset guideline that you have Set 
+    -like limiting password
+    -name have to be in allcaps
+    -ect..
 
+Pattern Matching in Elixir
