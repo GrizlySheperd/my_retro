@@ -14,3 +14,4 @@ validation occur within changeset guideline that you have Set
 
 Pattern Matching in Elixir
 Used AI to help me generate my retro file till september
+Learned How to Use mix 

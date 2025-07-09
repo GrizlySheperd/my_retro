@@ -1,1 +1,10 @@
+ Today i learned about tuple
+ and Pattern Matching 
+ Function Pattern Matching
+ argument and parameter is the sama
+ Arg is what is inside the function 
+ Parameters is what user inputs
+ |> is a pipe
+ it is a process dlm Elixir
+ how add user_detail like age and make it have a section for minor,adult,senior
  
