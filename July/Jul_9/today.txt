@@ -7,4 +7,4 @@
  |> is a pipe
  it is a process dlm Elixir
  how add user_detail like age and make it have a section for minor,adult,senior
- 
+ concave
