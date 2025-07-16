@@ -1,1 +1,7 @@
- 
+ added new gen.live for /books /loans
+    relationship 
+    antara book and user
+    has_one
+    has_many
+    belongs_to
+    one to many
