@@ -1,1 +1,5 @@
- 
+ Learned about relation ship database 
+ foreign key is what
+    A foreign key in a database is a column or set of columns 
+    in one table that refers to the primary key of another table
+    
