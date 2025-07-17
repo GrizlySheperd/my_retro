@@ -1,1 +1,4 @@
- 
+ Learned More About the usage of ENUM and its quite usefull 
+ like emnum.all enum.group.by ect
+ i can filter information , searched item, 
+    
