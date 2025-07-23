@@ -1,1 +1,6 @@
- 
+Technical documentatioin
+get route is very difficult
+route for admin is there
+but i cant access the/admin page
+but i can access /users page
+even though im using an admin account 
