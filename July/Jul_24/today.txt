@@ -1,1 +1,4 @@
- 
+ Done with Technical Documentation
+ I learned how to make Technncal Documentation, by documenting every error 
+ and make the Best one with no error.So people can copy our step.
+ Done with erd now can proceed with integrating it into project code
